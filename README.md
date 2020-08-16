@@ -3,6 +3,4 @@ Dichas sentencias SQL fueron solicitadas para el proyecto de la materia Sistemas
 Se usó Postgresql. Se recomienda revisar la sintaxis de las sentencias y si es necesario, adaptarlo al sistema de gestión de bases de datos (DBMS) que esté empleando.
 
 Autores:
-Andrade López, Juan Carlos
-Bello Makkoukdji, Daniel Antonio
-Sánchez Padilla, Hermes Samuel.
+Andrade López, Juan Carlos; Bello Makkoukdji, Daniel Antonio; Sánchez Padilla, Hermes Samuel.
